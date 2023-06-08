@@ -20,3 +20,6 @@ https://arxiv.org/abs/2212.07422
 This code and model are available for non-commercial scientific research purposes as defined in the [LICENSE](LICENSE) file. By downloading and using the code and model you agree to the terms in the [LICENSE](LICENSE).
 
 ## Output
+
+![Screenshot 2023-06-08 185406](https://github.com/camenduru/ECON-colab/assets/54370274/869e22e6-7055-4b9e-b3fd-8e366725c7bf)
+
