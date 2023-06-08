@@ -9,6 +9,7 @@
 
 ## Main Repo
 https://github.com/YuliangXiu/ECON
+https://huggingface.co/spaces/Yuliang/ECON/tree/main
 
 ## Page
 https://xiuyuliang.cn/econ/
