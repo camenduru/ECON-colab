@@ -20,11 +20,10 @@ https://arxiv.org/abs/2212.07422
 This code and model are available for non-commercial scientific research purposes as defined in the [LICENSE](LICENSE) file. By downloading and using the code and model you agree to the terms in the [LICENSE](LICENSE).
 
 ### No Distribution 
-from https://icon.is.tue.mpg.de/license.html <br />
+The Data & Software and the license herein granted shall not be copied, shared, distributed, re-sold, offered for re-sale, transferred or sub-licensed in whole or in part except that you may make one copy for archive purposes only. <br />
 
-"The Data & Software and the license herein granted shall not be copied, shared, distributed, re-sold, offered for re-sale, transferred or sub-licensed in whole or in part except that you may make one copy for archive purposes only." <br />
-
-Looks like we have to register and download models https://icon.is.tue.mpg.de/register.php
+### Register and Download
+According to license we have to register and download the models at https://icon.is.tue.mpg.de/register.php
 
 ## Output
 
