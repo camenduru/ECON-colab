@@ -8,7 +8,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/ECON-colab/blob/main/ECON_colab.ipynb) | ECON_colab
 
 ## Main Repo
-https://github.com/YuliangXiu/ECON
+https://github.com/YuliangXiu/ECON <br />
 https://huggingface.co/spaces/Yuliang/ECON/tree/main
 
 ## Page
